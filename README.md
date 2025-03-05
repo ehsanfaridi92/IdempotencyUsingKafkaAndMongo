@@ -14,7 +14,7 @@ This project is a simple implementation of the **Idempotency** pattern using **K
 
 To run this project, you need the following:
 
-- .NET 6.0 or later
+- .NET 8.0
 - Kafka (with the required bootstrap servers and topic name configuration)
 - MongoDB to store message processing status
 - Install the following NuGet packages:
